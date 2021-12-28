@@ -3,3 +3,5 @@ In the 1900s, Prokudin-Gorskii gained permission by the tzar to take pictures th
 
 For more description, see project website:
 https://inst.eecs.berkeley.edu/~cs194-26/fa21/hw/proj1/
+
+The aviable orginal images can also be found in the proj website, I included two smaller images for quick testing. Those larger .tif file (>60MB) takes less than a minute to run as well.
