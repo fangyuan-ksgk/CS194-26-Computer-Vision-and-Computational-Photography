@@ -5,3 +5,7 @@ For more description, see project website:
 https://inst.eecs.berkeley.edu/~cs194-26/fa21/hw/proj1/
 
 The aviable orginal images can also be found in the proj website, I included two smaller images for quick testing. Those larger .tif file (>60MB) takes less than a minute to run as well.
+
+Examples of original images, containing three missaligned channels:
+![image](https://user-images.githubusercontent.com/66006349/147544981-fac4a231-dada-4ba5-993f-0198e136140e.png)
+
